@@ -1,4 +1,4 @@
-Olá ^^, Me chamo Jonnas Willian e este foi um CRUD feito em PHP
-- Front-End desenvolvido com HTML 5 e CSS3
-- Back-End em PHP
-- E o banco de dados utilizado foi o MySQL
+- Um projeto de CRUD utilizando como ferramentais principais CodeIgniter, php e JavaScript
+- Front-End desenvolvido com HTML 5, CSS3, boostrap e CodeIgniter
+- Back-End em PHP e javascript
+- E o banco de dados utilizado no projeto foi o MySQL
